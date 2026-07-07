@@ -1,0 +1,29 @@
+Start testing: Jul 07 16:06 KST
+----------------------------------------------------------
+1/1 Testing: client1_tests
+1/1 Test: client1_tests
+Command: "/home/ai_agent_class/lecture1/client1/build/client1_tests"
+Directory: /home/ai_agent_class/lecture1/client1/build
+"client1_tests" start time: Jul 07 16:06 KST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MainWindowTest
+[ RUN      ] MainWindowTest.ConnectAndDisconnectUpdatesState
+[       OK ] MainWindowTest.ConnectAndDisconnectUpdatesState (61 ms)
+[----------] 1 test from MainWindowTest (61 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (61 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"client1_tests" end time: Jul 07 16:06 KST
+"client1_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 07 16:06 KST

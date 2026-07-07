@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ai_agent_class/lecture1/client1/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

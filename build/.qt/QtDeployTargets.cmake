@@ -1,4 +1,0 @@
-set(__QT_DEPLOY_TARGET_client1_FILE /home/ai_agent_class/lecture1/client1/build/client1)
-set(__QT_DEPLOY_TARGET_client1_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_client1_tests_FILE /home/ai_agent_class/lecture1/client1/build/client1_tests)
-set(__QT_DEPLOY_TARGET_client1_tests_TYPE EXECUTABLE)

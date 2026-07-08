@@ -1,0 +1,10 @@
+build/
+.vscode/
+.ninja_deps
+.ninja_log
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.elf
